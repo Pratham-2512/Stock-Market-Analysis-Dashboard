@@ -26,5 +26,4 @@ A comprehensive project that blends Python (for data wrangling) and Power BI (fo
 
 ---
 
-## 📂 Project Structure
-
+<img width="1142" height="632" alt="image" src="https://github.com/user-attachments/assets/67eca0ea-b6b2-4f08-a04d-516cdd10e42f" />
