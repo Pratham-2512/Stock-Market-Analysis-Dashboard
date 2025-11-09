@@ -25,5 +25,10 @@ A comprehensive project that blends Python (for data wrangling) and Power BI (fo
 - **GitHub**: Version control and project showcase
 
 ---
+🚀 Key Result: Portfolio achieved 22.5% annual return with 8% volatility (2020–2024)
+📊 Dashboard Highlights:
+- Sector allocation and risk-return matrix
+- Real-time price fetch from Yahoo Finance
+- Sharpe ratio–based optimization
 
 <img width="1142" height="632" alt="image" src="https://github.com/user-attachments/assets/67eca0ea-b6b2-4f08-a04d-516cdd10e42f" />
